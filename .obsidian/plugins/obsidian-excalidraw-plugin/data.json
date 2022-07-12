@@ -1,9 +1,9 @@
 {
   "folder": "Excalidraw",
-  "embedUseExcalidrawFolder": false,
+  "embedUseExcalidrawFolder": true,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
-  "compress": false,
+  "compress": true,
   "autosave": true,
   "autosaveInterval": 10000,
   "drawingFilenamePrefix": "Drawing ",
