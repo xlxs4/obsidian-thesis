@@ -1,5 +1,5 @@
 202205221400
-Status: #note
+Status: #definition
 Tags:
 
 # dsDNA

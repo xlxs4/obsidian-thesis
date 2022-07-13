@@ -1,5 +1,5 @@
 202205212159
-Status: #note
+Status: #definition
 Tags:
 
 # ssDNA

@@ -1,5 +1,5 @@
 202205202358
-Status: #note
+Status: #definition
 Tags:
 
 # Protein

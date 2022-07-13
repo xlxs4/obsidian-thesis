@@ -1,5 +1,5 @@
 202205202359
-Status: #note
+Status: #definition
 Tags:
 
 # Receptor

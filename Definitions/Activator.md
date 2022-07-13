@@ -1,5 +1,5 @@
 202205170120
-Status: #note
+Status: #definition
 Tags:
 
 # Activator

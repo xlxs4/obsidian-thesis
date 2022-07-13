@@ -1,5 +1,5 @@
 202205212158
-Status: #note
+Status: #definition
 Tags:
 
 # Primer

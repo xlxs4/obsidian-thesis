@@ -1,5 +1,5 @@
 202205210001
-Status: #note
+Status: #definition
 Tags:
 
 # Chromosome

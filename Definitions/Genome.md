@@ -1,5 +1,5 @@
 202205192356
-Status: #note
+Status: #definition
 Tags:
 
 # Genome

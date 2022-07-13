@@ -1,5 +1,5 @@
 202205221357
-Status: #note
+Status: #definition
 Tags:
 
 # Reverse Transcription

@@ -1,5 +1,5 @@
 202205212054
-Status: #note
+Status: #definition
 Tags:
 
 # Polymerase

@@ -1,5 +1,5 @@
 202205172223
-Status: #note
+Status: #definition
 Tags:
 
 # Autoregulation

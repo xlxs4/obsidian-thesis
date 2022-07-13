@@ -1,5 +1,5 @@
 202205172232
-Status: #note
+Status: #definition
 Tags:
 
 # Coregulator

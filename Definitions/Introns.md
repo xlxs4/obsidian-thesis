@@ -1,5 +1,5 @@
 202205202246
-Status: #note
+Status: #definition
 Tags:
 
 # Introns

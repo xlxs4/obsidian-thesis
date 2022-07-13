@@ -1,5 +1,5 @@
 202205210007
-Status: #note
+Status: #definition
 Tags:
 
 # Gene

@@ -1,5 +1,5 @@
 202205222148
-Status: #note
+Status: #definition
 Tags:
 
 # Phenotype
