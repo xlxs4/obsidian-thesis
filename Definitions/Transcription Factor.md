@@ -22,6 +22,9 @@ It can also do big jumps, jumping to a different strand (even from one [[Chromos
 
 The TFs interact to create a complex language of gene expression.
 
+Some TFs bind to a section of a [[Promoter]], usually in a region called a "TATA box", since thymine-adenine pairs are easier to pry apart, given that they make one fewer hydrogen bonds than a CG pair.
+Binding to DNA occurs due to a binding domain that has affinity for a specific sequence of nulceotides in the promoter. The transcription factor also has an activation domain, which will bind to other regulatory proteins that enhance transcription.
+A transcription factor can have one or more of either of these types of domains. 
 
 ---
 # References
