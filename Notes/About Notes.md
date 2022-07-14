@@ -13,6 +13,5 @@ Tags:
 9. Revisit old notes to maintain consistency, if possible.
 
 
-
 ---
 # References

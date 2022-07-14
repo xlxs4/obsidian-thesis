@@ -1,9 +1,11 @@
 [
   "obsidian-citation-plugin",
-  "sliding-panes-obsidian",
   "obsidian-admonition",
   "obsidian-git",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "calendar",
+  "obsidian-auto-link-title",
+  "markdown-table-editor"
 ]
