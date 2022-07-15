@@ -3,7 +3,7 @@ Status: #definition
 Tags:
 
 # Mutual Inhibition
-![[mutual-inhibition.excalidraw|700]]
+![[circuit-mutual-inhibition.excalidraw|700]]
 
 
 

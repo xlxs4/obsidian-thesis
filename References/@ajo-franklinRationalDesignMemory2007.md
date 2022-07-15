@@ -4,3 +4,4 @@ authors: Caroline M. Ajo-Franklin, David A. Drubin, Julian A. Eskin, Elaine P.S.
 year: 2007
 ---
 
+![[circuit-mem-original.excalidraw|800]]
