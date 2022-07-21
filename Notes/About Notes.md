@@ -10,7 +10,7 @@ Tags:
 6. Add visuals (images, Biorender renders, Excalidraw drawings) whenever possible.
 7. Use admonition.
 8. You can add tags at the end, little and generic.
-9. Revisit old notes to maintain consistency, if possible.
+9. Frequently revisit old notes to maintain consistency.
 
 
 ---

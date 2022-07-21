@@ -32,7 +32,7 @@ A signaling molecule like cAMP, will bind to a protein called an activator, whic
 
 ```
 
-#### Feedback Inhibition
+### Feedback Inhibition
 
 The products of certain enzymatic pathway act as inhibitors for these pathways: if a certain compund accumulates in the cell, it slows down the pathway by which it was generated, inhibiting further production.
 
@@ -66,9 +66,8 @@ There is typically a repressor bound to the operator that corresponds to these g
 
 ```
 
-#### Histones
-An easy way to turn genes ON and OFF has to do with the way that DNA is wrapped around histones to form nucleosomes.
-When bound to [[Histone]]s, genes can't be expressed.
+### Histones
+An easy way to turn genes ON and OFF has to do with the way that DNA is wrapped around histones to form nucleosomes When bound to [[Histone]]s, genes can't be expressed.
 In order to express a gene, the gene must become accessible. Genes become accessible if an enzyme modifies a histone through acetylation, methylation or phosphorylation thus decreasing its affinity for DNA.
 When a gene is no longer coordinated to the histone, it is available for transcription.
 In order for transcription to proceed, proteins called transcription factors are necessary.

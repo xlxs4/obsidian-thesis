@@ -3,7 +3,7 @@ Status: #note
 Tags:
 
 # Activator
-
+Or promoter (activates, promotes, upregulates)
 
 
 
